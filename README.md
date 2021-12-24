@@ -1,6 +1,6 @@
 # SaaedBackup
 </head><body id="preview">
-<h1><a id="SaaedBackup_0"></a>SaaedBackup</h1>
+
 <p><a href="https://nodesource.com/products/nsolid"><img src="https://www.saaedco.com/Content/images/saaed-name-logo.png?v=1" alt="N|Solid"></a></p>
 <p><a href="https://travis-ci.org/joemccann/dillinger"><img src="https://travis-ci.org/joemccann/dillinger.svg?branch=master" alt="Build Status"></a></p>
 <p>SaaedBackup is a backup library for .Net &amp; .Net Standard written in C#.</p>
